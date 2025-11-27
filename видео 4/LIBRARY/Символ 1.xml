@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 1" itemID="671ede7b-000001e8" lastModified="1730076283">
+  <timeline>
+    <DOMTimeline name="Символ 1" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!8201 8539|8223 8556!8223 8556|8201 8541"/>
+                    <Edge fillStyle0="1" edges="!8201 8539|8201 8541"/>
+                    <Edge cubics="!8201 8539(;8201,8539 8201,8541 8201,8541q8201 8539 8201 8541);"/>
+                    <Edge cubics="!8223 8556(;8223,8556 8201,8541 8201,8541q8223 8556 8201 8541);"/>
+                    <Edge cubics="!8201 8539(;8201,8539 8223,8556 8223,8556q8201 8539 8223 8556);"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 1"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

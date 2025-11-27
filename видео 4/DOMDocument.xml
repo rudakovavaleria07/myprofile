@@ -1,0 +1,308 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 23.0 build 103" majorVersion="23" buildNumber="103" timelineLabelWidth="261" viewAngle3D="100.925968316201" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="72C1916F0738734AA195A12CCEEC4690">
+     <media>
+          <DOMBitmapItem name="Растровое изображение 1" itemID="671ecfcb-000001c9" sourceExternalFilepath="./LIBRARY/Растровое изображение 1.png" sourceLastImported="1730072523" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 1.png" bitmapDataHRef="M 4 1730072523.dat" frameRight="3600" frameBottom="1800"/>
+          <DOMBitmapItem name="Растровое изображение 2" itemID="671edd05-000001e6" sourceExternalFilepath="./LIBRARY/Растровое изображение 2.png" sourceLastImported="1730075909" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 2.png" bitmapDataHRef="M 8 1730075909.dat" frameRight="5160" frameBottom="9100"/>
+          <DOMBitmapItem name="Растровое изображение 6" itemID="671ed27b-000001d1" sourceExternalFilepath="./LIBRARY/Растровое изображение 6.png" sourceLastImported="1730073211" externalFileCRC32="528243159" externalFileSize="52584" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 6.png" bitmapDataHRef="M 6 1730073211.dat" frameRight="11460" frameBottom="10060"/>
+          <DOMBitmapItem name="Растровое изображение 7" itemID="671ed960-000001de" sourceExternalFilepath="./LIBRARY/Растровое изображение 7.png" sourceLastImported="1730074976" externalFileCRC32="1503931662" externalFileSize="87375" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 7.png" bitmapDataHRef="M 7 1730074976.dat" frameRight="11240" frameBottom="9980"/>
+          <DOMBitmapItem name="1dffd584676d25bcda946c95381b3ad0.jpg" itemID="671ec858-0000019f" sourceExternalFilepath="./LIBRARY/1dffd584676d25bcda946c95381b3ad0.jpg" sourceLastImported="1730070610" externalFileCRC32="795169091" externalFileSize="21863" allowSmoothing="true" quality="50" href="1dffd584676d25bcda946c95381b3ad0.jpg" bitmapDataHRef="M 2 1730070616.dat" frameRight="11260" frameBottom="17280" isJPEG="true"/>
+          <DOMBitmapItem name="94e38367f4e3b6772845bc9927d9ee72.jpg" itemID="671ec7ac-00000196" sourceExternalFilepath="./LIBRARY/94e38367f4e3b6772845bc9927d9ee72.jpg" sourceLastImported="1730069335" externalFileCRC32="3597188790" externalFileSize="28415" allowSmoothing="true" quality="50" href="94e38367f4e3b6772845bc9927d9ee72.jpg" bitmapDataHRef="M 1 1730070444.dat" frameRight="11260" frameBottom="7500" isJPEG="true"/>
+          <DOMBitmapItem name="pngwing.com (8).png" itemID="671ecf16-000001b4" sourceExternalFilepath="./LIBRARY/pngwing.com (8).png" sourceLastImported="1730072313" externalFileCRC32="1873095282" externalFileSize="83619" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="pngwing.com (8).png" bitmapDataHRef="M 3 1730072342.dat" frameRight="36660" frameBottom="24840"/>
+     </media>
+     <symbols>
+          <Include href="Анимация 1.xml" itemIcon="1" loadImmediate="false" itemID="671ee6d1-00000223" lastModified="1730078417"/>
+          <Include href="Анимация 2.xml" itemIcon="1" loadImmediate="false" itemID="671ee6d1-00000227" lastModified="1730078417"/>
+          <Include href="Анимация 3.xml" itemIcon="1" loadImmediate="false" itemID="671ee887-0000022b" lastModified="1730078916"/>
+          <Include href="Анимация 4.xml" itemIcon="1" loadImmediate="false" itemID="671ee887-0000022f" lastModified="1730078855"/>
+          <Include href="Символ 1.xml" loadImmediate="false" itemID="671ede7b-000001e8" lastModified="1730076283"/>
+          <Include href="Символ 2.xml" loadImmediate="false" itemID="671ee430-00000208" lastModified="1730077744"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Слой_4" color="#FF4FFF">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_5" color="#009999" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="59" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195" propagateRotMap="[0]" propagateScaleXMap="[1.09521484375]" propagateScaleYMap="[1.09521484375]" propagateSkewXMap="[0]" propagateSkewYMap="[0]">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="59000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.499827" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="27000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="58000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-351.2" next="0,-351.2" previous="0,-351.2" roving="0" timevalue="27000"/><Keyframe anchor="0,-2.15" next="0,-2.15" previous="0,-2.15" roving="0" timevalue="58000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,109.521" next="0,109.521" previous="0,109.521" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,109.521" next="0,109.521" previous="0,109.521" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 2">
+                                             <matrix>
+                                                  <Matrix a="1.09521484375" d="1.09521484375" tx="309.1" ty="723.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="163.7" y="288.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Направляющая: Слой_3" color="#9933CC" current="true" isSelected="true" autoNamed="false" visible="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="59" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!22583 5360[22600 4802 22414 4271!22414 4271[22292 3924 22113 3718!22113 3718[22076 3676 21996 3597!21996 3597[21916 3518 21879 3475!21879 3475[21844 3436 21779 3353!21779 3353[21714 3270 21679 3230!21679 3230[21482 3007 21145 2846!21145
+ 2846[20932 2745 20514 2612!20514 2612|19912 2420!19912 2420[19691 2348 19532 2303!19532 2303[19013 2155 18484 2095!18484 2095[17895 2029 17465 2106!17465 2106[17318 2133 17071 2199!17071 2199|16550 2338!16550 2338[16329 2397 16210 2432
+!16210 2432[16023 2487 15876 2543!15876 2543[15716 2604 15394 2758!15394 2758|14946 2973!14946 2973[15578 2556 16297 2341!16297 2341[16418 2305 16664 2241!16664 2241|17144 2116!17144 2116[17413 2046 17553 2027!17553 2027[17709 2005 17901
+ 2009!17901 2009[18033 2011 18249 2029!18249 2029[18760 2074 19106 2142!19106 2142[19410 2201 19783 2311!19783 2311[20001 2375 20448 2523!20448 2523[20685 2600 20809 2647!20809 2647[21007 2721 21158 2800!21158 2800[21477 2965 21755 3231
+!21755 3231[22016 3481 22223 3803!22223 3803[22365 4023 22459 4247!22459 4247[22568 4510 22613 4795!22613 4795[22657 5078 22634 5363!22634 5363[22621 5532 22574 5627!22574 5627[22548 5683 22496 5747!22496 5747[22434 5821 22403 5858!22403
+ 5858[22311 5966 22181 6161!22181 6161[22022 6398 21967 6471!21967 6471[21823 6661 21610 6870!21610 6870[21481 6996 21213 7234!21213 7234[21092 7342 21020 7402!21020 7402[20911 7492 20815 7556!20815 7556[20697 7635 20413 7779!20413 7779
+[20147 7913 20015 8008!20015 8008[19953 8053 19763 8213!19763 8213[19608 8343 19502 8405!19502 8405[19399 8466 19192 8544!19192 8544[17896 9025 16409 9110!16409 9110[16197 9122 16040 9120!16040 9120[15841 9118 15673 9094!15673 9094[15431
+ 9060 15141 8963!15141 8963[14964 8903 14627 8766!14627 8766[14470 8703 14390 8664!14390 8664[14261 8602 14169 8533!14169 8533[14050 8445 13937 8305!13937 8305[13856 8205 13748 8037!13748 8037[13681 7934 13632 7854!13632 7854[13517 7668
+ 13462 7545!13462 7545[13350 7292 13316 6949!13316 6949[13294 6733 13297 6325!13297 6325[13301 5845 13318 5593!13318 5593[13346 5188 13425 4872!13425 4872[13545 4385 13816 3953!13816 3953[14087 3521 14473 3202!14473 3202[14381 3352 14183
+ 3586!14183 3586[13958 3851 13880 3963!13880 3963[13553 4433 13436 5137!13436 5137[13358 5606 13354 6425!13354 6425[13352 6798 13377 7002!13377 7002[13416 7319 13534 7545!13534 7545[13545 7567 13676 7781!13676 7781[13763 7923 13794 8027
+!13794 8027[13898 8178 13960 8254!13960 8254[14058 8375 14157 8451!14157 8451[14242 8516 14362 8574!14362 8574[14437 8611 14583 8670!14583 8670|15100 8879!15100 8879[15241 8936 15309 8961!15309 8961[15426 9003 15523 9024!15523 9024[15645
+ 9051 15797 9060!15797 9060[15906 9066 16073 9063!16073 9063[17253 9043 18398 8732!18398 8732[18806 8620 19163 8486!19163 8486[19428 8388 19569 8297!19569 8297[19655 8242 19782 8135!19782 8135[19941 8000 19988 7965!19988 7965[20135 7854
+ 20421 7700!20421 7700[20740 7529 20862 7446!20862 7446[21001 7352 21158 7215!21158 7215[21258 7127 21434 6958!21434 6958[21628 6773 21721 6675!21721 6675[21876 6513 21981 6367!21981 6367[22000 6340 22169 6078!22169 6078[22283 5903 22375
+ 5803!22375 5803[22404 5772 22464 5709!22464 5709[22513 5653 22537 5604!22537 5604[22562 5553 22573 5485!22573 5485[22580 5438 22583 5360"/>
+                                                  <Edge cubics="!22583 5360(;22594,4991 22536,4620 22414,4271q22583 5360Q22600 4802q22414 4271);"/>
+                                                  <Edge cubics="!22414 4271(;22344,4072 22252,3878 22113,3718q22414 4271Q22292 3924q22113 3718);"/>
+                                                  <Edge cubics="!22113 3718(;22039,3633 21953,3560 21879,3475q22113 3718Q22076 3676q21996 3597Q21916 3518q21879 3475);"/>
+                                                  <Edge cubics="!21879 3475(;21809,3396 21749,3309 21679,3230q21879 3475Q21844 3436q21779 3353Q21714 3270q21679 3230);"/>
+                                                  <Edge cubics="!21679 3230(;21384,2896 20938,2747 20514,2612q21679 3230Q21482 3007q21145 2846Q20932 2745q20514 2612);"/>
+                                                  <Edge cubics="!20514 2612(;20314,2548 20113,2484 19912,2420q20514 2612 19912 2420);"/>
+                                                  <Edge cubics="!19912 2420(;19786,2379 19659,2339 19532,2303q19912 2420Q19691 2348q19532 2303);"/>
+                                                  <Edge cubics="!19532 2303(;19189,2205 18838,2135 18484,2095q19532 2303Q19013 2155q18484 2095);"/>
+                                                  <Edge cubics="!18484 2095(;18145,2057 17800,2046 17465,2106q18484 2095Q17895 2029q17465 2106);"/>
+                                                  <Edge cubics="!17465 2106(;17332,2130 17201,2164 17071,2199q17465 2106Q17318 2133q17071 2199);"/>
+                                                  <Edge cubics="!17071 2199(;16897,2245 16723,2292 16550,2338q17071 2199 16550 2338);"/>
+                                                  <Edge cubics="!16550 2338(;16323,2398 16095,2459 15876,2543q16550 2338Q16329 2397q16210 2432Q16023 2487q15876 2543);"/>
+                                                  <Edge cubics="!15876 2543(;15711,2606 15553,2682 15394,2758q15876 2543Q15716 2604q15394 2758);"/>
+                                                  <Edge cubics="!15394 2758(;15245,2830 15095,2901 14946,2973q15394 2758 14946 2973);"/>
+                                                  <Edge cubics="!14946 2973(;15363,2698 15819,2484 16297,2341q14946 2973Q15578 2556q16297 2341);"/>
+                                                  <Edge cubics="!16297 2341(;16418,2305 16541,2273 16664,2241q16297 2341Q16418 2305q16664 2241);"/>
+                                                  <Edge cubics="!16664 2241(;16824,2199 16984,2158 17144,2116q16664 2241 17144 2116);"/>
+                                                  <Edge cubics="!17144 2116(;17279,2081 17415,2046 17553,2027q17144 2116Q17413 2046q17553 2027);"/>
+                                                  <Edge cubics="!17553 2027(;17784,1995 18017,2010 18249,2029q17553 2027Q17709 2005q17901 2009Q18033 2011q18249 2029);"/>
+                                                  <Edge cubics="!18249 2029(;18536,2054 18823,2086 19106,2142q18249 2029Q18760 2074q19106 2142);"/>
+                                                  <Edge cubics="!19106 2142(;19563,2230 20006,2377 20448,2523q19106 2142Q19410 2201q19783 2311Q20001 2375q20448 2523);"/>
+                                                  <Edge cubics="!20448 2523(;20690,2602 20932,2682 21158,2800q20448 2523Q20685 2600q20809 2647Q21007 2721q21158 2800);"/>
+                                                  <Edge cubics="!21158 2800(;21596,3027 21956,3388 22223,3803q21158 2800Q21477 2965q21755 3231Q22016 3481q22223 3803);"/>
+                                                  <Edge cubics="!22223 3803(;22314,3944 22394,4092 22459,4247q22223 3803Q22365 4023q22459 4247);"/>
+                                                  <Edge cubics="!22459 4247(;22605,4598 22665,4984 22634,5363q22459 4247Q22568 4510q22613 4795Q22657 5078q22634 5363);"/>
+                                                  <Edge cubics="!22634 5363(;22627,5454 22614,5546 22574,5627q22634 5363Q22621 5532q22574 5627);"/>
+                                                  <Edge cubics="!22574 5627(;22533,5714 22465,5784 22403,5858q22574 5627Q22548 5683q22496 5747Q22434 5821q22403 5858);"/>
+                                                  <Edge cubics="!22403 5858(;22241,6049 22118,6270 21967,6471q22403 5858Q22311 5966q22181 6161Q22022 6398q21967 6471);"/>
+                                                  <Edge cubics="!21967 6471(;21751,6756 21481,6996 21213,7234q21967 6471Q21823 6661q21610 6870Q21481 6996q21213 7234);"/>
+                                                  <Edge cubics="!21213 7234(;21086,7348 20958,7461 20815,7556q21213 7234Q21092 7342q21020 7402Q20911 7492q20815 7556);"/>
+                                                  <Edge cubics="!20815 7556(;20560,7726 20264,7829 20015,8008q20815 7556Q20697 7635q20413 7779Q20147 7913q20015 8008);"/>
+                                                  <Edge cubics="!20015 8008(;19839,8134 19689,8296 19502,8405q20015 8008Q19953 8053q19763 8213Q19608 8343q19502 8405);"/>
+                                                  <Edge cubics="!19502 8405(;19404,8463 19298,8504 19192,8544q19502 8405Q19399 8466q19192 8544);"/>
+                                                  <Edge cubics="!19192 8544(;18301,8875 17358,9056 16409,9110q19192 8544Q17896 9025q16409 9110);"/>
+                                                  <Edge cubics="!16409 9110(;16164,9124 15916,9129 15673,9094q16409 9110Q16197 9122q16040 9120Q15841 9118q15673 9094);"/>
+                                                  <Edge cubics="!15673 9094(;15310,9043 14966,8904 14627,8766q15673 9094Q15431 9060q15141 8963Q14964 8903q14627 8766);"/>
+                                                  <Edge cubics="!14627 8766(;14468,8702 14306,8636 14169,8533q14627 8766Q14470 8703q14390 8664Q14261 8602q14169 8533);"/>
+                                                  <Edge cubics="!14169 8533(;13994,8403 13866,8220 13748,8037q14169 8533Q14050 8445q13937 8305Q13856 8205q13748 8037);"/>
+                                                  <Edge cubics="!13748 8037(;13709,7977 13670,7916 13632,7854q13748 8037Q13681 7934q13632 7854);"/>
+                                                  <Edge cubics="!13632 7854(;13570,7754 13510,7653 13462,7545q13632 7854Q13517 7668q13462 7545);"/>
+                                                  <Edge cubics="!13462 7545(;13295,7167 13294,6739 13297,6325q13462 7545Q13350 7292q13316 6949Q13294 6733q13297 6325);"/>
+                                                  <Edge cubics="!13297 6325(;13301,5838 13307,5345 13425,4872q13297 6325Q13301 5845q13318 5593Q13346 5188q13425 4872);"/>
+                                                  <Edge cubics="!13425 4872(;13585,4223 13958,3628 14473,3202q13425 4872Q13545 4385q13816 3953Q14087 3521q14473 3202);"/>
+                                                  <Edge cubics="!14473 3202(;14305,3476 14064,3699 13880,3963q14473 3202Q14381 3352q14183 3586Q13958 3851q13880 3963);"/>
+                                                  <Edge cubics="!13880 3963(;13393,4663 13358,5572 13354,6425q13880 3963Q13553 4433q13436 5137Q13358 5606q13354 6425);"/>
+                                                  <Edge cubics="!13354 6425(;13352,6807 13357,7207 13534,7545q13354 6425Q13352 6798q13377 7002Q13416 7319q13534 7545);"/>
+                                                  <Edge cubics="!13534 7545(;13619,7707 13742,7852 13794,8027q13534 7545Q13545 7567q13676 7781Q13763 7923q13794 8027);"/>
+                                                  <Edge cubics="!13794 8027(;13900,8181 14009,8337 14157,8451q13794 8027Q13898 8178q13960 8254Q14058 8375q14157 8451);"/>
+                                                  <Edge cubics="!14157 8451(;14284,8548 14435,8610 14583,8670q14157 8451Q14242 8516q14362 8574Q14437 8611q14583 8670);"/>
+                                                  <Edge cubics="!14583 8670(;14756,8740 14928,8810 15100,8879q14583 8670 15100 8879);"/>
+                                                  <Edge cubics="!15100 8879(;15238,8935 15377,8992 15523,9024q15100 8879Q15241 8936q15309 8961Q15426 9003q15523 9024);"/>
+                                                  <Edge cubics="!15523 9024(;15703,9064 15889,9066 16073,9063q15523 9024Q15645 9051q15797 9060Q15906 9066q16073 9063);"/>
+                                                  <Edge cubics="!16073 9063(;16858,9050 17641,8938 18398,8732q16073 9063Q17253 9043q18398 8732);"/>
+                                                  <Edge cubics="!18398 8732(;18656,8661 18912,8580 19163,8486q18398 8732Q18806 8620q19163 8486);"/>
+                                                  <Edge cubics="!19163 8486(;19303,8434 19443,8378 19569,8297q19163 8486Q19428 8388q19569 8297);"/>
+                                                  <Edge cubics="!19569 8297(;19719,8201 19846,8072 19988,7965q19569 8297Q19655 8242q19782 8135Q19941 8000q19988 7965);"/>
+                                                  <Edge cubics="!19988 7965(;20259,7760 20581,7636 20862,7446q19988 7965Q20135 7854q20421 7700Q20740 7529q20862 7446);"/>
+                                                  <Edge cubics="!20862 7446(;21070,7306 21253,7132 21434,6958q20862 7446Q21001 7352q21158 7215Q21258 7127q21434 6958);"/>
+                                                  <Edge cubics="!21434 6958(;21628,6773 21824,6586 21981,6367q21434 6958Q21628 6773q21721 6675Q21876 6513q21981 6367);"/>
+                                                  <Edge cubics="!21981 6367(;22114,6180 22219,5972 22375,5803q21981 6367Q22000 6340q22169 6078Q22283 5903q22375 5803);"/>
+                                                  <Edge cubics="!22375 5803(;22433,5740 22499,5681 22537,5604q22375 5803Q22404 5772q22464 5709Q22513 5653q22537 5604);"/>
+                                                  <Edge cubics="!22537 5604(;22574,5529 22580,5443 22583,5360q22537 5604Q22562 5553q22573 5485Q22580 5438q22583 5360);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_3" color="#FF800A" parentLayerIndex="2">
+                         <frames>
+                              <DOMFrame index="0" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Анимация 3" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="752.05" ty="145.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Анимация 3" symbolType="graphic" centerPoint3DX="969.55" centerPoint3DY="111" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.965927124023438" b="-0.258804321289062" c="0.258804321289062" d="0.965927124023438" tx="973.1" ty="114.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="21" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Анимация 3" symbolType="graphic" centerPoint3DX="1123.95" centerPoint3DY="242.15" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.21522521972656" b="-0.614028930664062" c="0.517684936523438" d="1.02455139160156" tx="1128" ty="244.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="30" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Анимация 3" symbolType="graphic" centerPoint3DX="1008.25" centerPoint3DY="389.05" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.06040954589844" b="-1.276611328125" c="1.1455078125" d="0.9515380859375" tx="1012.65" ty="389.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.05" y="0.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="38" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Анимация 3" symbolType="graphic" centerPoint3DX="847.25" centerPoint3DY="449.5" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="1.30323791503906" b="-1.60455322265625" c="1.30953979492188" d="1.06362915039062" tx="851.15" ty="449.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.1" y="0.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="43" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Анимация 3" symbolType="graphic" centerPoint3DX="740.8" centerPoint3DY="439.95" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.902023315429688" b="-1.55795288085938" c="1.311279296875" d="0.759140014648438" tx="744.2" ty="439.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.1" y="0.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="50" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Анимация 3" symbolType="graphic" centerPoint3DX="664.55" centerPoint3DY="320.95" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.973724365234375" b="-1.04278564453125" c="0.931655883789062" d="0.86993408203125" tx="667.3" ty="321.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.1" y="0.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="58" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Анимация 4" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="722.85" ty="162.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_2" color="#9933CC" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="59" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195" rigPropagationMatrix='{"a":149,"b":0,"c":0,"d":177,"tx":14193,"ty":5928}' propagateRotMap="[0,-14.998900000000001,7.4630599999999996]" propagateScaleXMap="[1]" propagateScaleYMap="[1]" propagateSkewXMap="[0]" propagateSkewYMap="[0]">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="59000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.218169" xformPtYOffsetPct="0.098878" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="8529,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-32.45" next="569,-32.45" previous="-8527,-32.45" roving="0" timevalue="24000"/><Keyframe anchor="0,-42.3" next="194,-42.3" previous="-568,-42.3" roving="0" timevalue="28000"/><Keyframe anchor="0,48.65" next="191,48.65" previous="-194,48.65" roving="1" timevalue="28581"/><Keyframe anchor="0,-42.3" next="9667,-42.3" previous="-191,-42.3" roving="0" timevalue="29153"/><Keyframe anchor="0,2.05" next="0,2.05" previous="0,2.05" roving="0" timevalue="58000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="8529,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,122.817" next="569,125.586" previous="-8527,81.302" roving="0" timevalue="24000"/><Keyframe anchor="0,139.859" next="194,143.665" previous="-568,137.907" roving="0" timevalue="28000"/><Keyframe anchor="0,180.85" next="191,180.85" previous="-194,180.85" roving="1" timevalue="28581"/><Keyframe anchor="0,143.242" next="9667,136.781" previous="-191,143.38" roving="0" timevalue="29153"/><Keyframe anchor="0,-17.55" next="0,-17.55" previous="0,-17.55" roving="0" timevalue="58000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-14.9989" next="0,-14.9989" previous="0,-14.9989" roving="0" timevalue="24000"/><Keyframe anchor="0,7.46306" next="0,7.46306" previous="0,7.46306" roving="0" timevalue="33000"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="28000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="33000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="58000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 1">
+                                             <matrix>
+                                                  <Matrix tx="145.15" ty="271.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="89.7" y="42.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_8" color="#FF4F4F">
+                         <frames>
+                              <DOMFrame index="0" duration="59" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" caps="none" weight="4">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!4346 6590[#E51.96 #26FA.61 3852 9068"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_1" color="#00FFFF" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="59" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="94e38367f4e3b6772845bc9927d9ee72.jpg">
+                                             <matrix>
+                                                  <Matrix a="2.27566528320312" d="2.04806518554688" tx="-2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="pngwing.com (8).png">
+                                             <matrix>
+                                                  <Matrix a="-0.3331298828125" d="0.32464599609375" tx="603.65"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>
