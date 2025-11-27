@@ -1,0 +1,130 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 23.0 build 103" majorVersion="23" buildNumber="103" timelineLabelWidth="277" viewAngle3D="100.925968316201" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="E79640BE0941A94F858FD7EC2CE9E865">
+     <media>
+          <DOMBitmapItem name="0dc812c26a56c54354305d13a276f71b.jpg" itemID="671ea789-00000250" sourceExternalFilepath="./LIBRARY/0dc812c26a56c54354305d13a276f71b.jpg" sourceLastImported="1730062206" externalFileCRC32="2796662381" externalFileSize="43075" allowSmoothing="true" quality="50" href="0dc812c26a56c54354305d13a276f71b.jpg" bitmapDataHRef="M 8 1730062217.dat" frameRight="11280" frameBottom="10160" isJPEG="true"/>
+          <DOMBitmapItem name="4e474a7aa0e3e7e937e97c8563ab1c45.jpg" itemID="671ea5c6-0000023d" sourceExternalFilepath="./LIBRARY/4e474a7aa0e3e7e937e97c8563ab1c45.jpg" sourceLastImported="1730058624" externalFileCRC32="1757895143" externalFileSize="28439" allowSmoothing="true" quality="50" href="4e474a7aa0e3e7e937e97c8563ab1c45.jpg" bitmapDataHRef="M 6 1730061766.dat" frameRight="11280" frameBottom="7300" isJPEG="true"/>
+          <DOMBitmapItem name="колесо (1).png" itemID="671eac7b-000002ab" sourceExternalFilepath="./LIBRARY/колесо (1).png" sourceLastImported="1730063437" externalFileCRC32="673261067" externalFileSize="25735" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="колесо (1).png" bitmapDataHRef="M 13 1730063483.dat" frameRight="15400" frameBottom="9880"/>
+          <DOMBitmapItem name="колесо-fotor-bg-remover-202410280850.png" itemID="671eadc7-000002b3" sourceExternalFilepath="./LIBRARY/колесо-fotor-bg-remover-202410280850.png" sourceLastImported="1730063331" externalFileCRC32="3808263478" externalFileSize="9795" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="колесо-fotor-bg-remover-202410280850.png" bitmapDataHRef="M 14 1730063815.dat" frameRight="10000" frameBottom="6400"/>
+          <DOMBitmapItem name="колесо.png" itemID="671eab0f-0000029d" sourceExternalFilepath="./LIBRARY/колесо.png" sourceLastImported="1730063070" externalFileCRC32="584113876" externalFileSize="1724" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="колесо.png" bitmapDataHRef="M 12 1730063119.dat" frameRight="15400" frameBottom="9880"/>
+          <DOMBitmapItem name="машина тело-AmoyShare (1).png" itemID="671eab0b-00000298" sourceExternalFilepath="./LIBRARY/машина тело-AmoyShare (1).png" sourceLastImported="1730062878" externalFileCRC32="759508861" externalFileSize="56046" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="машина тело-AmoyShare (1).png" bitmapDataHRef="M 11 1730063115.dat" frameRight="10980" frameBottom="6520"/>
+          <DOMBitmapItem name="машина тело.png" itemID="671ea9db-0000028c" sourceExternalFilepath="./LIBRARY/машина тело.png" sourceLastImported="1730059356" externalFileCRC32="2517816948" externalFileSize="12956" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="машина тело.png" bitmapDataHRef="M 10 1730062811.dat" frameRight="13720" frameBottom="8160"/>
+          <DOMBitmapItem name="тело-AmoyShare.png" itemID="671ea150-000001eb" sourceExternalFilepath="./LIBRARY/тело-AmoyShare.png" sourceLastImported="1730060522" externalFileCRC32="2797523258" externalFileSize="130221" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="тело-AmoyShare.png" bitmapDataHRef="M 4 1730060624.dat" frameRight="16000" frameBottom="14120"/>
+          <DOMBitmapItem name="хвост-AmoyShare (1).png" itemID="671ea1d2-000001f9" sourceExternalFilepath="./LIBRARY/хвост-AmoyShare (1).png" sourceLastImported="1730060697" externalFileCRC32="2038709325" externalFileSize="7731" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="хвост-AmoyShare (1).png" bitmapDataHRef="M 5 1730060754.dat" frameRight="3120" frameBottom="2580"/>
+          <DOMBitmapItem name="e318b2675d4cb7dc2de9dd5bebe5be44.jpg" itemID="671ea67b-00000245" sourceExternalFilepath="./LIBRARY/e318b2675d4cb7dc2de9dd5bebe5be44.jpg" sourceLastImported="1730061936" externalFileCRC32="2543822038" externalFileSize="30799" allowSmoothing="true" quality="50" href="e318b2675d4cb7dc2de9dd5bebe5be44.jpg" bitmapDataHRef="M 7 1730061947.dat" frameRight="11280" frameBottom="6340" isJPEG="true"/>
+          <DOMBitmapItem name="pngwing.com (7).png" itemID="671ea989-0000027e" sourceExternalFilepath="./LIBRARY/pngwing.com (7).png" sourceLastImported="1730062669" externalFileCRC32="2352059025" externalFileSize="2712358" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="pngwing.com (7).png" bitmapDataHRef="M 9 1730062729.dat" frameRight="38400" frameBottom="38400"/>
+     </media>
+     <symbols>
+          <Include href="Символ 1.xml" loadImmediate="false" itemID="671ea2a4-00000204" lastModified="1730060964"/>
+          <Include href="Символ 2.xml" loadImmediate="false" itemID="671eae1f-000002c0" lastModified="1730063903"/>
+          <Include href="колесо.xml" loadImmediate="false" itemID="671eae02-000002bb" lastModified="1730064006"/>
+          <Include href="машина.xml" loadImmediate="false" itemID="671eaf5b-000002d5" lastModified="1730064520"/>
+          <Include href="машинка.xml" loadImmediate="false" itemID="671eb1ae-00000343" lastModified="1730064814"/>
+          <Include href="dog.xml" loadImmediate="false" itemID="671ea496-0000021d" lastModified="1730061462"/>
+          <Include href="xvost.xml" loadImmediate="false" itemID="671ea1ef-000001ff" lastModified="1730061029"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Слой_13" color="#009999" current="true" isSelected="true" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="34" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195" rigPropagationMatrix='{"a":53423,"b":0,"c":0,"d":53423,"tx":2084,"ty":2190}' propagateRotMap="[0]" propagateScaleXMap="[1]" propagateScaleYMap="[1]" propagateSkewXMap="[0]" propagateSkewYMap="[0]">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="34000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.234914" xformPtYOffsetPct="0.26746" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,337.35" next="0,337.35" previous="0,337.35" roving="0" timevalue="33000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-6.55" next="0,-6.55" previous="0,-6.55" roving="0" timevalue="33000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,68.2343" next="0,68.2343" previous="0,68.2343" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,68.2343" next="0,68.2343" previous="0,68.2343" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="машинка">
+                                             <matrix>
+                                                  <Matrix a="0.682342529296875" d="0.682342529296875" tx="199.45" ty="368.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="116.2" y="87.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_4" color="#FF4FFF" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="34" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195" propagateRotMap="[0,7.4415740966796875,-1.5322265625,6.6623077392578125]" propagateScaleXMap="[0.388123]" propagateScaleYMap="[0.388123]" propagateSkewXMap="[0]" propagateSkewYMap="[0]">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="34000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.50125" xformPtYOffsetPct="0.501779" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,68.3875" next="0,68.3875" previous="0,68.3875" roving="0" timevalue="8000"/><Keyframe anchor="0,273.55" next="0,273.55" previous="0,273.55" roving="0" timevalue="33000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="8000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="33000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,7.44157" next="0,7.44157" previous="0,7.44157" roving="0" timevalue="8000"/><Keyframe anchor="0,-1.53223" next="0,-1.53223" previous="0,-1.53223" roving="0" timevalue="17000"/><Keyframe anchor="0,6.66231" next="0,6.66231" previous="0,6.66231" roving="0" timevalue="25000"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,38.8123" next="0,38.8123" previous="0,38.8123" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,38.8123" next="0,38.8123" previous="0,38.8123" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="dog">
+                                             <matrix>
+                                                  <Matrix a="0.38812255859375" d="0.38812255859375" tx="13.5" ty="523.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="300.7" y="225.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="xvost" color="#FF800A" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="dog">
+                                             <matrix>
+                                                  <Matrix a="0.374114990234375" d="0.374114990234375" tx="45.8" ty="394.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="299.9" y="224.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="тело_AmoyShare_png" color="#9933CC" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_6" color="#FF0000" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="34" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195" propagateRotMap="[0,6.792510986328125,-3.6338043212890625,3.653839111328125,-5.693634033203125,2.90618896484375,-5.4632720947265625]" propagateScaleXMap="[-0.397003173828125]" propagateScaleYMap="[0.374267578125]" propagateSkewXMap="[0]" propagateSkewYMap="[0]">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="34000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.500083" xformPtYOffsetPct="0.500445" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-520.45" next="0,-520.45" previous="0,-520.45" roving="0" timevalue="33000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,3.8" next="0,3.8" previous="0,3.8" roving="0" timevalue="33000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,6.79251" next="0,6.79251" previous="0,6.79251" roving="0" timevalue="6000"/><Keyframe anchor="0,-3.6338" next="0,-3.6338" previous="0,-3.6338" roving="0" timevalue="8000"/><Keyframe anchor="0,3.65384" next="0,3.65384" previous="0,3.65384" roving="0" timevalue="14000"/><Keyframe anchor="0,-5.69363" next="0,-5.69363" previous="0,-5.69363" roving="0" timevalue="19000"/><Keyframe anchor="0,2.90619" next="0,2.90619" previous="0,2.90619" roving="0" timevalue="25000"/><Keyframe anchor="0,-5.46327" next="0,-5.46327" previous="0,-5.46327" roving="0" timevalue="33000"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-39.7003" next="0,-39.7003" previous="0,-39.7003" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,37.4268" next="0,37.4268" previous="0,37.4268" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="dog">
+                                             <matrix>
+                                                  <Matrix a="-0.397003173828125" d="0.374267578125" tx="1366.4" ty="527.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="300" y="224.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_5" color="#009999" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="34" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="0dc812c26a56c54354305d13a276f71b.jpg">
+                                             <matrix>
+                                                  <Matrix a="2.28260803222656" d="1.56181335449219" tx="-7" ty="-73"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="pngwing.com (7).png">
+                                             <matrix>
+                                                  <Matrix a="0.04736328125" d="0.04736328125" tx="529" ty="629"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

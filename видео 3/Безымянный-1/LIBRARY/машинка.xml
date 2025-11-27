@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="машинка" itemID="671eb1ae-00000343" lastModified="1730064814">
+  <timeline>
+    <DOMTimeline name="машинка" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="машина тело-AmoyShare (1).png">
+                  <matrix>
+                    <Matrix a="0.411895751953125" d="0.411895751953125"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="колесо" selected="true">
+                  <matrix>
+                    <Matrix a="0.69287109375" d="0.69287109375" tx="129.55" ty="95.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="276.95" y="175.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="колесо" selected="true">
+                  <matrix>
+                    <Matrix a="0.678955078125" d="0.678955078125" tx="5.25" ty="95.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="276.95" y="175.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

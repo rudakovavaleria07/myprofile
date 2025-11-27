@@ -1,0 +1,25 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="xvost" itemID="671ea1ef-000001ff" lastModified="1730061029">
+  <timeline>
+    <DOMTimeline name="xvost" currentFrame="8" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195" propagateRotMap="[-53.69036865234375,-13.255233764648438,31.744400024414062,-17.74505615234375,-57.208663940429688]" propagateScaleXMap="[1]" propagateScaleYMap="[1]" propagateSkewXMap="[0]" propagateSkewYMap="[0]">
+              <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="9000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.996474" xformPtYOffsetPct="1.00155" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-53.6904" next="0,-53.6904" previous="0,-53.6904" roving="0" timevalue="0"/><Keyframe anchor="0,-13.2552" next="0,-13.2552" previous="0,-13.2552" roving="0" timevalue="2000"/><Keyframe anchor="0,31.7444" next="0,31.7444" previous="0,31.7444" roving="0" timevalue="4000"/><Keyframe anchor="0,-17.7451" next="0,-17.7451" previous="0,-17.7451" roving="0" timevalue="6000"/><Keyframe anchor="0,-57.2087" next="0,-57.2087" previous="0,-57.2087" roving="0" timevalue="8000"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 1" selected="true">
+                  <matrix>
+                    <Matrix a="0.592147827148438" b="-0.805816650390625" c="0.805816650390625" d="0.592147827148438" tx="-40.15" ty="177.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="155.45" y="129.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
